@@ -1,3 +1,3 @@
 Public  static void main{
-	system.printl("Hola")
+	system.printl(\
 } 
